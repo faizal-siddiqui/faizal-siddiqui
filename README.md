@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizal-siddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="faizal-siddiqui" /> </p>
 <img align="right" alt="anime" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" width="35%" />
 
-- 🔭 I’m currently working on **Lynx.com**
+- 🔭 I’m currently studying at **Masai School**
 
 - 🌱 I’m currently learning **Redux and Advanced React.**
 
