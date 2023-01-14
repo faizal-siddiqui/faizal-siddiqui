@@ -14,7 +14,7 @@
 
 - 📃 Checkout my <a href="https://drive.google.com/file/d/1sxm7xUJK1GSk50jkHoUtq5GSLF3qk70V/view?usp=sharing">Resume<a/>
   
-- 🗄 Here's my  <a href="https://faizal-siddiqui.github.io/">Resume<a/>
+- 🗄 Here's my  <a href="https://faizal-siddiqui.github.io/">Portfolio<a/>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,8 +56,8 @@
    
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizal-siddiqui&show_icons=true&locale=en&layout=compact" alt="faizal-siddiqui" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizal-siddiqui&layout=compact&show_icons=true&theme=gotham&hide_border=true" alt="faizal-siddiqui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizal-siddiqui&show_icons=true&locale=en" alt="faizal-siddiqui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizal-siddiqui&show_icons=true&theme=gotham&hide_border=true" alt="faizal-siddiqui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizal-siddiqui&" alt="faizal-siddiqui" /></p>
