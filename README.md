@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying at **Masai School**
 
-- 🌱 I’m currently learning **Redux and Advanced React.**
+- 🌱 I’m currently learning **Node Js MangDB and ExpressJS.**
 
 - 💬 Ask me about **HTML, CSS, Javascript and React**
 
@@ -18,11 +18,16 @@
   
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/faizal-siddiqui-908451244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizal-siddiqui-908451244" height="30" width="40" /></a>
-<a href="https://codesandbox.com/faizalsidp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="faizalsidp" height="30" width="40" /></a>
-   <a href="mail@: faizalsidp@gmail.com" target="blank">
-        <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="atanu k." height="30" width="40" />
-    </a>
+
+	<a href="https://linkedin.com/in/faizal-siddiqui-908451244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizal-siddiqui-908451244" height="30" width="40" />
+	</a>
+
+	<a href="https://codesandbox.com/faizalsidp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="faizalsidp" height="30" width="40" />
+	</a>
+    
+	<a href="mail@: faizalsidp@gmail.com" target="blank">
+		<img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="atanu k." height="30" width="40" />
+	</a>
   
 </p>
 
