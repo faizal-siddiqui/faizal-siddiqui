@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently studying at **Masai School**
 
-- 🌱 I’m currently learning **Node Js MangDB and ExpressJS.**
+- 🌱 I’m currently learning **Node Js, MangDB and ExpressJS.**
 
-- 💬 Ask me about **HTML, CSS, Javascript and React**
+- 💬 Ask me about **HTML, CSS, Javascript and React and Typescript**
 
 - 📫 How to reach me **faizalsidp@gmail.com**
 
