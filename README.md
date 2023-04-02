@@ -30,7 +30,7 @@
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizal-siddiqui)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizalsidp@gmail.com)
 
-## ⚡ Tech Stack  
+## ⚡ Tech Stack   
 
 ### 🚀 Languages and Frameworks:
 
