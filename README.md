@@ -25,7 +25,7 @@
 - 📃 Checkout my <a href="https://drive.google.com/file/d/1sxm7xUJK1GSk50jkHoUtq5GSLF3qk70V/view?usp=sharing">Resume<a/>
 - 🗄 Here's my <a href="https://faizal-siddiqui.github.io/">Portfolio<a/>
 
-## Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/>
+## Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/> 
 
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizal-siddiqui)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizalsidp@gmail.com)
