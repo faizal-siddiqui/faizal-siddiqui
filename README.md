@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Faizal Siddiqui</h1>
+<h1 align="center">Hey 👋, I'm Faizal Siddiqui</h1> 
 <h3 align="center">A passionate Full Stack developer having a goal to make his skills better.</h3>  
 
 <div>
