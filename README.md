@@ -69,7 +69,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=faizal-siddiqui&theme=dark&show_icons=true&hide_border=true" alt="faizal-siddiqui" />
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizal-siddiqui&layout=compact&theme=dark&hide_border=true" alt="faizal-siddiqui" />
-  </p>
+  </p> 
   <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizal-siddiqui&hide_border=true&theme=dark" alt="faizal-siddiqui" />
   </p>
