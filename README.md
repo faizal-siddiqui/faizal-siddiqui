@@ -15,7 +15,7 @@
 </div>
 
 - 🔭 I’m currently studying at **Masai School**.
-
+ 
 - 🌱 I’m currently learning **Node Js, MongoDB and ExpressJS.** 
 
 - 💬 Ask me about **HTML, CSS, Javascript, React and Node Js**.
