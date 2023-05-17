@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Faizal Siddiqui</h1> 
 <h3 align="center">A passionate Full Stack developer having a goal to make his skills better.</h3>  
 
-<div>
+<div> 
     <div>
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=faizal-siddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="faizal-siddiqui" />
