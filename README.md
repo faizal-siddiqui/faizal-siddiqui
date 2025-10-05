@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Faizal Siddiqui</h1>
-<h3 align="center">Frontend Developer at <a href="https://tutorbin.com" target="_blank">Tutorbin</a> | Full Stack Developer | FastAPI Enthusiast</h3>
+<h3 align="center">Full Stack Developer at <a href="https://tutorbin.com" target="_blank">Tutorbin</a> | React | Next.js | FastAPI | Python | PostgreSQL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faizal-siddiqui&label=Profile%20Views&color=0e75b6&style=flat" alt="faizal-siddiqui" />
@@ -9,63 +9,68 @@
 
 ## 🚀 My Journey
 
-### 🎓 The Foundation — Masai School
-My development journey began at **Masai School**, where I built strong fundamentals in **JavaScript, React, Node.js, Express, and MongoDB** through real-world projects and team collaborations.  
-Masai taught me not just coding, but the discipline of clean architecture, problem-solving, and team-driven product development.
+### 🎓 The Foundation — Masai School  
+My development journey started at **Masai School**, where I built a strong foundation in **JavaScript, React, Node.js, Express, and MongoDB**.  
+Through hands-on projects, daily standups, and collaborative problem-solving, I learned the essence of clean code, scalability, and teamwork — skills that shaped my professional discipline as a developer.
 
 ---
 
-### 💼 The Professional Chapter — Tutorbin
-Currently, I’m working as a **Frontend Developer at [Tutorbin](https://tutorbin.com)** — an **EdTech platform** offering innovative solutions for students and educators worldwide.  
-During my time at Tutorbin, I’ve worked across multiple large-scale products, handling everything from **frontend architecture** to **end-to-end feature development** and **backend integrations using FastAPI**.
+### 💼 The Professional Chapter — Tutorbin  
+I’m currently working as a **Full Stack Developer at [Tutorbin](https://tutorbin.com)** — an **EdTech platform** that provides academic assistance, AI-driven tools, and learning management systems for students and institutions.
+
+At Tutorbin, I’ve been deeply involved in both **frontend** and **backend development**, building and scaling multiple products end-to-end using **Next.js**, **React**, **FastAPI**, and **PostgreSQL**.  
+From architecting intuitive UIs to designing backend APIs and database models — I’ve contributed across the entire stack.
 
 ---
 
 ## 🧠 Major Projects at Tutorbin
 
 ### 🖥 Tutorbin Website
-- Built & refactored multiple SEO-driven pages for marketing and blog sections.
-- Integrated CMS for dynamic content management.
-- Improved UI/UX and site performance using **Next.js** and **React**.
+- Refactored and built multiple **SEO-driven marketing pages** and blog templates.
+- Integrated **CMS** for dynamic content management.
+- Enhanced **website performance, accessibility, and SEO** using **Next.js** and **React**.
+- Collaborated with backend team to optimize API consumption and caching.
 
 ### 🎓 Student Dashboard
-- Revamped the entire dashboard UI.
-- Developed order creation, tracking, and status update workflows.
-- Integrated API handling and state management with **Redux Toolkit**.
+- Revamped the **entire dashboard architecture and UI**.
+- Developed modules for **order creation, payment, and tracking**.
+- Managed complex state with **Redux Toolkit** and integrated APIs via **FastAPI** backend.
 
 ### ⚙️ Operations Portal
-- Contributed to features like coupon management, order negotiation, and chat functionality.
-- Worked on debugging and improving data synchronization for internal teams.
+- Built and maintained key features like **coupon management**, **chat functionality**, and **order negotiation**.
+- Worked on backend data flows and **improved synchronization** between multiple microservices.
 
 ---
 
-## 🤖 AI Tools Suite (Built from Scratch)
-I designed and developed multiple **AI-driven tools** end-to-end — integrating intuitive UI/UX, API handling, and backend communication.
+## 🤖 AI Tools Suite (Developed End-to-End)
+At Tutorbin, I independently developed and maintained multiple **AI-driven tools**, combining frontend React applications with FastAPI-based backends.
 
-- [**AI Homework Helper**](https://tutorbin.com/ai-homework-helper): Solves homework questions with formula rendering and step-by-step explanations.  
-- [**Essay Generator**](https://tutorbin.com/essay-generator): Creates high-quality essays with tone and style customization.  
-- [**Grammar Checker**](https://tutorbin.com/grammar-checker): Detects and corrects grammatical errors.  
-- [**Paraphrasing Tool**](https://tutorbin.com/paraphrasing-tool): Rewrites content for clarity and originality.  
-- [**Rewriter**](https://tutorbin.com/essay-rewriter) & [**Summarizer**](https://tutorbin.com/summarizer-tool): Enhances and condenses long-form content.  
-- [**Cowriter**](https://tutorbin.com/cowriter): An advanced AI-powered document generator and editor.
+- [**AI Homework Helper**](https://tutorbin.com/ai-homework-helper): Solves academic questions with formula rendering and step-by-step solutions.  
+- [**Essay Generator**](https://tutorbin.com/essay-generator): Generates essays with tone and style customization.  
+- [**Grammar Checker**](https://tutorbin.com/grammar-checker): Detects and fixes grammar and sentence-level issues.  
+- [**Paraphrasing Tool**](https://tutorbin.com/paraphrasing-tool): Rewrites text for clarity and originality.  
+- [**Rewriter**](https://tutorbin.com/essay-rewriter) & [**Summarizer**](https://tutorbin.com/summarizer-tool): Improves and condenses written content.  
+- [**Cowriter**](https://tutorbin.com/cowriter): An advanced, AI-powered essay research and writing assistant with full user control.
 
 ---
 
 ## 🧩 New Ventures — Prayas AI
 
 ### 🔹 [Prayas AI](https://prayas.ai/)
-A platform for **UPSC Aspirants** that evaluates handwritten answer sheets using AI.  
-I handled:
-- **Authentication System**
-- **AI Tool UI/UX**
-- **Payment and Referral Flow**
-- **Frontend API Integrations** using **FastAPI backend**
+A product built for **UPSC Aspirants** to evaluate handwritten answer sheets using AI.  
+I worked on both **frontend and backend** — handling:
+- **Authentication system (JWT-based)**
+- **Payment and referral workflows**
+- **AI integration & FastAPI backend communication**
+- **Frontend architecture using Next.js + Tailwind CSS**
 
 ### 🔹 Student Prayas AI
-An LMS-like system for **schools**, allowing students to manage homework, quizzes, and syllabus progress.
+- An **LMS-like tool** for schools enabling students to track assignments, quizzes, and progress.
+- Built reusable frontend components and handled API integration with FastAPI services.
 
 ### 🔹 Principal Prayas AI
-A **school management dashboard** enabling principals to analyze performance across classes and sections using data visualizations.
+- Created **data visualization dashboards** to analyze school-wide performance metrics.
+- Designed and integrated REST APIs for real-time reporting and analytics.
 
 ---
 
@@ -77,10 +82,10 @@ A **school management dashboard** enabling principals to analyze performance acr
 - **Testing:** Jest, Cypress  
 
 ### ⚙️ Backend
-- **Languages:** Python, JavaScript (Node.js)
-- **Frameworks:** FastAPI, Express.js
-- **Databases:** PostgreSQL, MongoDB
-- **Authentication & APIs:** JWT, REST APIs, OAuth  
+- **Languages:** Python, JavaScript (Node.js)  
+- **Frameworks:** FastAPI, Express.js  
+- **Databases:** PostgreSQL, MongoDB  
+- **Core Concepts:** REST API Design, Authentication (JWT & OAuth), Caching, Query Optimization  
 
 ### 🧠 Dev Tools & Platforms
 - **Version Control:** Git, GitHub  
@@ -90,9 +95,9 @@ A **school management dashboard** enabling principals to analyze performance acr
 
 ---
 
-## 🎯 What Drives Me
-Building scalable, user-centric applications that blend design, functionality, and performance.  
-I’m passionate about creating impactful experiences — from student dashboards to AI-driven educational tools.
+## 🎯 My Focus
+I’m passionate about **building scalable, maintainable, and user-centric products** that seamlessly connect frontend experiences with robust backend systems.  
+Whether it’s crafting pixel-perfect UI or designing efficient APIs — I aim to deliver impactful, high-performing solutions.
 
 ---
 
