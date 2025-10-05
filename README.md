@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Faizal Siddiqui</h1>
-<h3 align="center">Full Stack Developer at <a href="https://tutorbin.com" target="_blank">Tutorbin</a> | React | Next.js | FastAPI | Python | PostgreSQL | AWS | Azure</h3>
+<h3 align="center">Full Stack Developer at <a href="https://tutorbin.com" target="_blank">Tutorbin</a> | React | Next.js | FastAPI | Python | Node.js | Express.js | MongoDB | AWS | Azure</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=faizal-siddiqui&label=Profile%20Views&color=0e75b6&style=flat" alt="faizal-siddiqui" />
@@ -121,7 +121,7 @@ Whether it’s **improving SEO and accessibility**, **optimizing Web Vitals**, o
 
 ## 📫 Let’s Connect
 - **Portfolio:** [faizal-siddiqui.github.io](https://faizal-siddiqui.github.io/)  
-- **Resume:** [View Resume](https://drive.google.com/file/d/1sxm7xUJK1GSk50jkHoUtq5GSLF3qk70V/view?usp=sharing)  
+- **Resume:** [View Resume](https://drive.google.com/file/d/1muXe8UOgKTaUWyDQhF1uO2nmqPj-Vsni/view?usp=sharing)  
 - **Email:** faizalsidp@gmail.com  
 - **LinkedIn:** [linkedin.com/in/faizal-siddiqui](https://www.linkedin.com/in/faizal-siddiqui)
 
