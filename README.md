@@ -104,9 +104,6 @@ I worked on both **frontend and backend**, handling:
 - **Deployment Platforms:** Vercel, Netlify, AWS EC2, Heroku  
 - **Design & CMS Tools:** Figma, Headless CMS Integration (for SEO and dynamic content)  
 - **Build Tools:** Vite, Webpack, Postman  
-
----
-
 - **Deployment:** Vercel, Netlify, AWS EC2, Heroku  
 - **Design & CMS:** Figma, Headless CMS Integration (for SEO and dynamic content)  
 - **Others:** Vite, Docker (Basics)
